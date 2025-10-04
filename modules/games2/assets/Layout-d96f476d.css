@@ -1,0 +1,91 @@
+.game-floating-container {
+    position: relative;
+    overflow: auto
+}
+
+.game-floating-container>* {
+    width: 100% !important;
+    height: 100% !important
+}
+
+.floating-game-window {
+    box-shadow: 0 25px 50px -12px #00000040;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px)
+}
+
+.floating-game-window.dragging {
+    box-shadow: 0 35px 60px -12px #00000059;
+    transform: scale(1.02);
+    transition: all .1s ease
+}
+
+.floating-game-window.minimized {
+    transition: all .4s cubic-bezier(.4, 0, .2, 1);
+    border-radius: 8px
+}
+
+.floating-game-window.minimized .window-title-bar {
+    border-bottom: none
+}
+
+.floating-game-window.minimized:hover {
+    transform: scale(1.05);
+    box-shadow: 0 20px 40px -8px #0000004d
+}
+
+.minimized-content {
+    border-radius: 6px
+}
+
+.window-title-bar {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none
+}
+
+.window-title-bar:active {
+    cursor: grabbing !important
+}
+
+.window-controls button:hover {
+    transform: scale(1.1);
+    transition: transform .1s ease
+}
+
+.mobile-scroll-container {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(156, 163, 175, .5) transparent
+}
+
+.mobile-scroll-container::-webkit-scrollbar {
+    width: 8px;
+    height: 8px
+}
+
+.mobile-scroll-container::-webkit-scrollbar-track {
+    background: transparent
+}
+
+.mobile-scroll-container::-webkit-scrollbar-thumb {
+    background-color: #9ca3af80;
+    border-radius: 4px;
+    border: 2px solid transparent;
+    background-clip: content-box
+}
+
+.mobile-scroll-container::-webkit-scrollbar-thumb:hover {
+    background-color: #9ca3afb3
+}
+
+@media (max-width: 768px) {
+    .mobile-scroll-container::-webkit-scrollbar {
+        display: none
+    }
+    .mobile-scroll-container {
+        scrollbar-width: none;
+        -ms-overflow-style: none
+    }
+}

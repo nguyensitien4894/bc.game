@@ -1,0 +1,332 @@
+.color_icon_img {
+    background: url(/assets/coloricon-DtSJhTVW.png) no-repeat top left;
+    width: 32px;
+    height: 32px
+}
+
+.color_icon_img.color_icon_img_yellow {
+    background-image: url(/assets/coloricon_y-pp6jPOct.png)
+}
+
+.color_icon_img.bcpoker_g_w {
+    background-position: 0 0
+}
+
+.color_icon_img.bcpoker_g {
+    background-position: -32px 0
+}
+
+.color_icon_img.bcpoker_w {
+    background-position: 0 -32px
+}
+
+.color_icon_img.bcpoker {
+    background-position: -32px -32px
+}
+
+.color_icon_img.bingo_w {
+    background-position: -64px 0
+}
+
+.color_icon_img.bingo {
+    background-position: -64px -32px
+}
+
+.color_icon_img.casino_g_w {
+    background-position: 0 -64px
+}
+
+.color_icon_img.casino_g {
+    background-position: -32px -64px
+}
+
+.color_icon_img.casino_p_w {
+    background-position: -64px -64px
+}
+
+.color_icon_img.casino_p {
+    background-position: -96px 0
+}
+
+.color_icon_img.casino_w {
+    background-position: -96px -32px
+}
+
+.color_icon_img.casino {
+    background-position: -96px -64px
+}
+
+.color_icon_img.chat_g_w {
+    background-position: 0 -96px
+}
+
+.color_icon_img.chat_g {
+    background-position: -32px -96px
+}
+
+.color_icon_img.chat_p_w {
+    background-position: -64px -96px
+}
+
+.color_icon_img.chat_p {
+    background-position: -96px -96px
+}
+
+.color_icon_img.chat_w {
+    background-position: -128px 0
+}
+
+.color_icon_img.chat {
+    background-position: -128px -32px
+}
+
+.color_icon_img.explore_g_w {
+    background-position: -128px -64px
+}
+
+.color_icon_img.explore_g {
+    background-position: -128px -96px
+}
+
+.color_icon_img.explore_p_w {
+    background-position: 0 -128px
+}
+
+.color_icon_img.explore_p {
+    background-position: -32px -128px
+}
+
+.color_icon_img.explore_w {
+    background-position: -64px -128px
+}
+
+.color_icon_img.explore {
+    background-position: -96px -128px
+}
+
+.color_icon_img.lottery_g_w {
+    background-position: -128px -128px
+}
+
+.color_icon_img.lottery_g {
+    background-position: -160px 0
+}
+
+.color_icon_img.lottery_w {
+    background-position: -160px -32px
+}
+
+.color_icon_img.lottery {
+    background-position: -160px -64px
+}
+
+.color_icon_img.menu_g_w {
+    background-position: -160px -96px
+}
+
+.color_icon_img.menu_g {
+    background-position: -160px -128px
+}
+
+.color_icon_img.menu_p_w {
+    background-position: 0 -160px
+}
+
+.color_icon_img.menu_p {
+    background-position: -32px -160px
+}
+
+.color_icon_img.menu_w {
+    background-position: -64px -160px
+}
+
+.color_icon_img.menu {
+    background-position: -96px -160px
+}
+
+.color_icon_img.promotion_g_w {
+    background-position: -128px -160px
+}
+
+.color_icon_img.promotion_g {
+    background-position: -160px -160px
+}
+
+.color_icon_img.promotion_w {
+    background-position: -192px 0
+}
+
+.color_icon_img.promotion {
+    background-position: -192px -32px
+}
+
+.color_icon_img.racing_w {
+    background-position: -192px -64px
+}
+
+.color_icon_img.racing {
+    background-position: -192px -96px
+}
+
+.color_icon_img.sports_g_w {
+    background-position: -192px -128px
+}
+
+.color_icon_img.sports_g {
+    background-position: -192px -160px
+}
+
+.color_icon_img.sports_p_w {
+    background-position: 0 -192px
+}
+
+.color_icon_img.sports_p {
+    background-position: -32px -192px
+}
+
+.color_icon_img.sports_w {
+    background-position: -64px -192px
+}
+
+.color_icon_img.sports {
+    background-position: -96px -192px
+}
+
+.color_icon_img.trading_g_w {
+    background-position: -128px -192px
+}
+
+.color_icon_img.trading_g {
+    background-position: -160px -192px
+}
+
+.color_icon_img.trading_w {
+    background-position: -192px -192px
+}
+
+.color_icon_img.trading {
+    background-position: -224px 0
+}
+
+.color_icon_img.new_w {
+    background-position: 0 -224px;
+    width: 45px;
+    height: 18px
+}
+
+.color_icon_img.new {
+    background-position: -45px -224px;
+    width: 45px;
+    height: 18px
+}
+
+@media (min-resolution: 192dpi) {
+    .color_icon_img {
+        background: url(/assets/coloricon_retina-C5J_WHQl.png) no-repeat top left;
+        background-size: 256px 242px
+    }
+    .color_icon_img.color_icon_img_yellow {
+        background-image: url(/assets/coloricon_y_retina-CcdFCIH8.png)
+    }
+}
+
+html {
+    --Sidebar-Unit_bg: #f9f9f9;
+    --Sidebar-Cell_Expandbg: rgba(50, 55, 56, .05);
+    --Sidebar-ModeSwitcher-bg: #f9f9f9;
+    --Sidebar-bg_layer5: #f0f2f2;
+    --Sidebar-ListArrow-bg: #ededed
+}
+
+html.jbyellowtheme {
+    --Sidebar-ListArrow-bg: #fff
+}
+
+html.dark {
+    --Sidebar-Unit_bg: #323738;
+    --Sidebar-Cell_Expandbg: rgba(255, 255, 255, .05);
+    --Sidebar-ModeSwitcher-bg: #323738;
+    --Sidebar-bg_layer5: #323738;
+    --Sidebar-ListArrow-bg: #464f50
+}
+
+.refer-bg {
+    background: linear-gradient(90deg, #23ee8866, #23ee8800), var(--Sidebar-Unit_bg)
+}
+
+.sidebar_bg {
+    background: var(--Sidebar-Unit_bg)
+}
+
+.bg-arrow {
+    background: var(--Sidebar-ListArrow-bg)
+}
+
+.nav-link-item-game.active,
+.game-link-item-active,
+.game-link-item-ingame,
+.nav-link-item.nav-link-item-active {
+    background: linear-gradient(90deg, rgba(var(--brand) / .2), #23ee8800 83.86%), var(--Sidebar-Cell_Expandbg) !important
+}
+
+.nav-link-item-game.active span,
+.game-link-item-active span,
+.nav-link-item.nav-link-item-active span {
+    color: rgb(var(--brand)) !important
+}
+
+.toggle-link-item.toggle-link-item-open {
+    background: var(--Sidebar-Cell_Expandbg)
+}
+
+.toggle-link-item.toggle-link-item-active {
+    background: linear-gradient(90deg, rgba(var(--brand) / .2), #23ee8800)
+}
+
+.toggle-link-item-open.toggle-link-item-active {
+    background: linear-gradient(90deg, rgba(var(--brand) / .2), #23ee8800), var(--Sidebar-Cell_Expandbg) !important
+}
+
+.toggle-link-item.toggle-link-item-active span {
+    color: rgb(var(--brand)) !important
+}
+
+.sidebar_bg_sp .nav-link-item:first-child {
+    margin-top: 0
+}
+
+.side-nav-item .icon-wrap .icon {
+    width: 32px;
+    height: 32px;
+    transform: scale(.8)
+}
+
+@media screen and (min-width: 645px) {
+    .toggle-link-item:hover .sp-color-icon {
+        fill: rgb(var(--primary))
+    }
+    .toggle-link-item {
+        transition: height .3s ease
+    }
+    .game-link-item:hover,
+    .side-nav-item:hover,
+    .toggle-link-item:hover,
+    .nav-link-item:hover {
+        background: linear-gradient(90deg, rgba(var(--brand) / .2), #23ee8800), var(--Sidebar-Cell_Expandbg)
+    }
+    .game-link-item:hover span,
+    .side-nav-item:hover span,
+    .toggle-link-item:hover span,
+    .nav-link-item:hover span {
+        color: rgb(var(--primary))
+    }
+    .header-nav-item:hover {
+        background: var(--Sidebar-bg_layer5)
+    }
+    .header-nav-item:hover .icon {
+        fill: rgb(var(--primary))
+    }
+    .side-nav-item .icon-wrap .icon {
+        transform: scale(.75)
+    }
+}

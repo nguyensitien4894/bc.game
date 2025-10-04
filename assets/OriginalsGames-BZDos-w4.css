@@ -1,0 +1,413 @@
+.game_icon_img {
+    background: url(/assets/gameicon-Ba8impVs.png) no-repeat top left;
+    width: 32px;
+    height: 32px
+}
+
+.game_icon_img.game_icon_img_light {
+    background-image: url(/assets/gameicon_w-CCn1jClz.png)
+}
+
+.nav-link-item-game:hover .game_icon_img {
+    background-image: url(/assets/gameicon_h-D7k6xihh.png)
+}
+
+.nav-link-item-game:hover .game_icon_img.game_icon_img_light {
+    background-image: url(/assets/gameicon_w_h-C4yefbwi.png)
+}
+
+.nav-link-item-game.active .game_icon_img,
+.nav-link-item-game.active:hover .game_icon_img {
+    background-image: url(/assets/gameicon_g-UrtAqn19.png)
+}
+
+.nav-link-item-game.active .game_icon_img.game_icon_img_light,
+.nav-link-item-game.active:hover .game_icon_img.game_icon_img_light {
+    background-image: url(/assets/gameicon_g_w-MAK3oiIp.png)
+}
+
+.nav-link-item-game.active .game_icon_img.game_icon_img_yellow,
+.nav-link-item-game.active:hover .game_icon_img.game_icon_img_yellow {
+    background-image: url(/assets/gameicon_y-BNQQvzso.png)
+}
+
+.nav-link-item-game.active .game_icon_img.game_icon_img_light.game_icon_img_yellow,
+.nav-link-item-game.active:hover .game_icon_img.game_icon_img_light.game_icon_img_yellow {
+    background-image: url(/assets/gameicon_y_w-Kz3shtMk.png)
+}
+
+.game_icon_img.arcane_portals {
+    background-position: 0 0
+}
+
+.game_icon_img.bacarrat {
+    background-position: -32px 0
+}
+
+.game_icon_img.baccarat {
+    background-position: 0 -32px
+}
+
+.game_icon_img.baccaratmultiplayer {
+    background-position: -32px -32px
+}
+
+.game_icon_img.bc_bingo {
+    background-position: -64px 0
+}
+
+.game_icon_img.bc_blackjack_c {
+    background-position: -64px -32px
+}
+
+.game_icon_img.bc_blackjack_d {
+    background-position: 0 -64px
+}
+
+.game_icon_img.bc_blackjack_salon_privee {
+    background-position: -32px -64px
+}
+
+.game_icon_img.bc_hot_mania {
+    background-position: -64px -64px
+}
+
+.game_icon_img.bc_originallogo {
+    background-position: -96px 0
+}
+
+.game_icon_img.bc_poker {
+    background-position: -96px -32px
+}
+
+.game_icon_img.bc_speed_blackjack {
+    background-position: -96px -64px
+}
+
+.game_icon_img.bc_vip_blackjack_2 {
+    background-position: 0 -96px
+}
+
+.game_icon_img.bc87 {
+    background-position: -32px -96px
+}
+
+.game_icon_img.bcblackjacka {
+    background-position: -64px -96px
+}
+
+.game_icon_img.bcblackjackb {
+    background-position: -96px -96px
+}
+
+.game_icon_img.bcgamevipblackjack {
+    background-position: -128px 0
+}
+
+.game_icon_img.bconeblackjack {
+    background-position: -128px -32px
+}
+
+.game_icon_img.bcspeedbaccarat {
+    background-position: -128px -64px
+}
+
+.game_icon_img.beauties {
+    background-position: -128px -96px
+}
+
+.game_icon_img.blackjack {
+    background-position: 0 -128px
+}
+
+.game_icon_img.bullet {
+    background-position: -32px -128px
+}
+
+.game_icon_img.bz {
+    background-position: -64px -128px
+}
+
+.game_icon_img.cave {
+    background-position: -96px -128px
+}
+
+.game_icon_img.clash_cash {
+    background-position: -128px -128px
+}
+
+.game_icon_img.classicdice {
+    background-position: -160px 0
+}
+
+.game_icon_img.coinflip {
+    background-position: -160px -32px
+}
+
+.game_icon_img.color_game {
+    background-position: -160px -64px
+}
+
+.game_icon_img.crash {
+    background-position: -160px -96px
+}
+
+.game_icon_img.cursed_clown {
+    background-position: -160px -128px
+}
+
+.game_icon_img.cursed_doll {
+    background-position: 0 -160px
+}
+
+.game_icon_img.cyberpunk {
+    background-position: -32px -160px
+}
+
+.game_icon_img.deadliestsea {
+    background-position: -64px -160px
+}
+
+.game_icon_img.doggyminer {
+    background-position: -96px -160px
+}
+
+.game_icon_img.double {
+    background-position: -128px -160px
+}
+
+.game_icon_img.dragonquest {
+    background-position: -160px -160px
+}
+
+.game_icon_img.dragonslayer {
+    background-position: -192px 0
+}
+
+.game_icon_img.fast_crash {
+    background-position: -192px -32px
+}
+
+.game_icon_img.fastparity {
+    background-position: -192px -64px
+}
+
+.game_icon_img.fish_prawn_crab {
+    background-position: -192px -96px
+}
+
+.game_icon_img.ghost_boo_nanza {
+    background-position: -192px -128px
+}
+
+.game_icon_img.gold_of_olympus {
+    background-position: -192px -160px
+}
+
+.game_icon_img.golden_year {
+    background-position: 0 -192px
+}
+
+.game_icon_img.hashdice {
+    background-position: -32px -192px
+}
+
+.game_icon_img.hilo {
+    background-position: -64px -192px
+}
+
+.game_icon_img.jacks_crypt {
+    background-position: -96px -192px
+}
+
+.game_icon_img.jade {
+    background-position: -128px -192px
+}
+
+.game_icon_img.jb_originallogo {
+    background-position: -160px -192px
+}
+
+.game_icon_img.johnwild_default {
+    background-position: -192px -192px
+}
+
+.game_icon_img.keno {
+    background-position: -224px 0
+}
+
+.game_icon_img.kenomultiplayer {
+    background-position: -224px -32px
+}
+
+.game_icon_img.korean_super_speed_baccarat {
+    background-position: -224px -64px
+}
+
+.game_icon_img.left_4_cash {
+    background-position: -224px -96px
+}
+
+.game_icon_img.limbo {
+    background-position: -224px -128px
+}
+
+.game_icon_img.lucky_ranch {
+    background-position: -224px -160px
+}
+
+.game_icon_img.magic_mine {
+    background-position: -224px -192px
+}
+
+.game_icon_img.mines {
+    background-position: 0 -224px
+}
+
+.game_icon_img.monster_hunter {
+    background-position: -32px -224px
+}
+
+.game_icon_img.nezha {
+    background-position: -64px -224px
+}
+
+.game_icon_img.piece_of_cash {
+    background-position: -96px -224px
+}
+
+.game_icon_img.pinball_guessing {
+    background-position: -128px -224px
+}
+
+.game_icon_img.plinko {
+    background-position: -160px -224px
+}
+
+.game_icon_img.reel_big_catch {
+    background-position: -192px -224px
+}
+
+.game_icon_img.ringoffortune {
+    background-position: -224px -224px
+}
+
+.game_icon_img.roulette {
+    background-position: -256px 0
+}
+
+.game_icon_img.roulettemultiplayer {
+    background-position: -256px -32px
+}
+
+.game_icon_img.runaway_zombies {
+    background-position: -256px -64px
+}
+
+.game_icon_img.samurai_clash {
+    background-position: -256px -96px
+}
+
+.game_icon_img.sea_of_olympus_1000 {
+    background-position: -256px -128px
+}
+
+.game_icon_img.sic_bo {
+    background-position: -256px -160px
+}
+
+.game_icon_img.sicbo {
+    background-position: -256px -192px
+}
+
+.game_icon_img.speed_baccarat {
+    background-position: -256px -224px
+}
+
+.game_icon_img.starshine_princess {
+    background-position: 0 -256px
+}
+
+.game_icon_img.stellar_rush {
+    background-position: -32px -256px
+}
+
+.game_icon_img.sugar_fiesta_1000 {
+    background-position: -64px -256px
+}
+
+.game_icon_img.sword {
+    background-position: -96px -256px
+}
+
+.game_icon_img.symbiote {
+    background-position: -128px -256px
+}
+
+.game_icon_img.teen_patti {
+    background-position: -160px -256px
+}
+
+.game_icon_img.towerlegend {
+    background-position: -192px -256px
+}
+
+.game_icon_img.trading {
+    background-position: -224px -256px
+}
+
+.game_icon_img.twist {
+    background-position: -256px -256px
+}
+
+.game_icon_img.ultimatedice {
+    background-position: -288px 0
+}
+
+.game_icon_img.videopoker {
+    background-position: -288px -32px
+}
+
+.game_icon_img.wheel {
+    background-position: -288px -64px
+}
+
+.game_icon_img.wizards_academy {
+    background-position: -288px -96px
+}
+
+.game_icon_img.wukong {
+    background-position: -288px -128px
+}
+
+@media (min-resolution: 192dpi) {
+    .game_icon_img {
+        background: url(/assets/gameicon_retina-DNskE-sK.png) no-repeat top left;
+        background-size: 320px 288px
+    }
+    .nav-link-item-game:hover .game_icon_img {
+        background-image: url(/assets/gameicon_h_retina-CYxNkvCr.png)
+    }
+    .game_icon_img.game_icon_img_light {
+        background-image: url(/assets/gameicon_w_retina-BXx1ZwTd.png)
+    }
+    .nav-link-item-game:hover .game_icon_img.game_icon_img_light {
+        background-image: url(/assets/gameicon_w_h_retina-jzYjCUBT.png)
+    }
+    .nav-link-item-game.active .game_icon_img,
+    .nav-link-item-game.active:hover .game_icon_img {
+        background-image: url(/assets/gameicon_g_retina-BiYkDtGC.png)
+    }
+    .nav-link-item-game.active .game_icon_img.game_icon_img_light,
+    .nav-link-item-game.active:hover .game_icon_img.game_icon_img_light {
+        background-image: url(/assets/gameicon_g_w_retina-BvA3cm9m.png)
+    }
+    .nav-link-item-game.active .game_icon_img.game_icon_img_yellow,
+    .nav-link-item-game.active:hover .game_icon_img.game_icon_img_yellow {
+        background-image: url(/assets/gameicon_y_retina-CLhAjZGm.png)
+    }
+    .nav-link-item-game.active .game_icon_img.game_icon_img_light.game_icon_img_yellow,
+    .nav-link-item-game.active:hover .game_icon_img.game_icon_img_light.game_icon_img_yellow {
+        background-image: url(/assets/gameicon_y_w_retina-BpZxApq2.png)
+    }
+}

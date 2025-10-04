@@ -1,0 +1,441 @@
+.menu_icon_img {
+    background: url(/assets/menuicon-ClNjlrt7.png) no-repeat top left;
+    width: 32px;
+    height: 32px
+}
+
+.menu_icon_img.menu_icon_img_light {
+    background-image: url(/assets/menuicon_w-CzvAasJA.png)
+}
+
+.nav-link-item:hover .menu_icon_img_normal,
+.toggle-link-item:hover .menu_icon_img_normal {
+    background-image: url(/assets/menuicon_h-BvJqrMoK.png)
+}
+
+.nav-link-item:hover .menu_icon_img_normal.menu_icon_img_light,
+.toggle-link-item:hover .menu_icon_img_normal.menu_icon_img_light {
+    background-image: url(/assets/menuicon_w_h-CoXTuNLn.png)
+}
+
+.menu_icon_img.menu_icon_img_active {
+    background-image: url(/assets/menuicon_g-CPXVek87.png)
+}
+
+.menu_icon_img.menu_icon_img_active_light {
+    background-image: url(/assets/menuicon_g_w-BU5wp4EE.png)
+}
+
+.menu_icon_img.menu_icon_yellow.menu_icon_img_active {
+    background-image: url(/assets/menuicon_y-CguBUIOe.png)
+}
+
+.menu_icon_img.menu_icon_yellow.menu_icon_img_active_light {
+    background-image: url(/assets/menuicon_y_w-DVelUlLh.png)
+}
+
+.menu_icon_img.account {
+    background-position: 0 0
+}
+
+.menu_icon_img.achievement {
+    background-position: -32px 0
+}
+
+.menu_icon_img.affiliate {
+    background-position: 0 -32px
+}
+
+.menu_icon_img.alllotteries {
+    background-position: -32px -32px
+}
+
+.menu_icon_img.americanfootball {
+    background-position: -64px 0
+}
+
+.menu_icon_img.at {
+    background-position: -64px -32px
+}
+
+.menu_icon_img.ban_user {
+    background-position: 0 -64px
+}
+
+.menu_icon_img.ban {
+    background-position: -32px -64px
+}
+
+.menu_icon_img.bank {
+    background-position: -64px -64px
+}
+
+.menu_icon_img.barbados_royals {
+    background-position: -96px 0
+}
+
+.menu_icon_img.baseball {
+    background-position: -96px -32px
+}
+
+.menu_icon_img.basketball {
+    background-position: -96px -64px
+}
+
+.menu_icon_img.bc_airdrop {
+    background-position: 0 -96px
+}
+
+.menu_icon_img.bc_exlusive {
+    background-position: -32px -96px
+}
+
+.menu_icon_img.bc_licenses {
+    background-position: -64px -96px
+}
+
+.menu_icon_img.bc_originallogo {
+    background-position: -96px -96px
+}
+
+.menu_icon_img.bc87 {
+    background-position: -128px 0
+}
+
+.menu_icon_img.bclottery {
+    background-position: -128px -32px
+}
+
+.menu_icon_img.betting_insights {
+    background-position: -128px -64px
+}
+
+.menu_icon_img.bingo_home {
+    background-position: -128px -96px
+}
+
+.menu_icon_img.blog {
+    background-position: 0 -128px
+}
+
+.menu_icon_img.bonus {
+    background-position: -32px -128px
+}
+
+.menu_icon_img.boxing {
+    background-position: -64px -128px
+}
+
+.menu_icon_img.bz {
+    background-position: -96px -128px
+}
+
+.menu_icon_img.ceo_box {
+    background-position: -128px -128px
+}
+
+.menu_icon_img.challenge {
+    background-position: -160px 0
+}
+
+.menu_icon_img.colby_covington {
+    background-position: -160px -32px
+}
+
+.menu_icon_img.cricket {
+    background-position: -160px -64px
+}
+
+.menu_icon_img.dailycontest {
+    background-position: -160px -96px
+}
+
+.menu_icon_img.darts {
+    background-position: -160px -128px
+}
+
+.menu_icon_img.e_sports {
+    background-position: 0 -160px
+}
+
+.menu_icon_img.fair {
+    background-position: -32px -160px
+}
+
+.menu_icon_img.favorites {
+    background-position: -64px -160px
+}
+
+.menu_icon_img.favorites1 {
+    background-position: -96px -160px
+}
+
+.menu_icon_img.featurebuy_in {
+    background-position: -128px -160px
+}
+
+.menu_icon_img.fifa_events {
+    background-position: -160px -160px
+}
+
+.menu_icon_img.fifa {
+    background-position: -192px 0
+}
+
+.menu_icon_img.forum {
+    background-position: -192px -32px
+}
+
+.menu_icon_img.futures {
+    background-position: -192px -64px
+}
+
+.menu_icon_img.gamble_aware {
+    background-position: -192px -96px
+}
+
+.menu_icon_img.game_shows {
+    background-position: -192px -128px
+}
+
+.menu_icon_img.handball {
+    background-position: -192px -160px
+}
+
+.menu_icon_img.help {
+    background-position: 0 -192px
+}
+
+.menu_icon_img.high_low_spread {
+    background-position: -32px -192px
+}
+
+.menu_icon_img.hotgame {
+    background-position: -64px -192px
+}
+
+.menu_icon_img.icehockey {
+    background-position: -96px -192px
+}
+
+.menu_icon_img.independence {
+    background-position: -128px -192px
+}
+
+.menu_icon_img.inform {
+    background-position: -160px -192px
+}
+
+.menu_icon_img.ipl {
+    background-position: -192px -192px
+}
+
+.menu_icon_img.jason_derulo {
+    background-position: -224px 0
+}
+
+.menu_icon_img.jb_originallogo {
+    background-position: -224px -32px
+}
+
+.menu_icon_img.kwara_united {
+    background-position: -224px -64px
+}
+
+.menu_icon_img.laptop {
+    background-position: -224px -96px
+}
+
+.menu_icon_img.legal {
+    background-position: -224px -128px
+}
+
+.menu_icon_img.leicester_city {
+    background-position: -224px -160px
+}
+
+.menu_icon_img.license {
+    background-position: -224px -192px
+}
+
+.menu_icon_img.lil_pump {
+    background-position: 0 -224px
+}
+
+.menu_icon_img.liveevents {
+    background-position: -32px -224px
+}
+
+.menu_icon_img.miami {
+    background-position: -64px -224px
+}
+
+.menu_icon_img.my_bets {
+    background-position: -96px -224px
+}
+
+.menu_icon_img.newreleases {
+    background-position: -128px -224px
+}
+
+.menu_icon_img.notice {
+    background-position: -160px -224px
+}
+
+.menu_icon_img.o_higgins {
+    background-position: -192px -224px
+}
+
+.menu_icon_img.pachinko {
+    background-position: -224px -224px
+}
+
+.menu_icon_img.pdd {
+    background-position: -256px 0
+}
+
+.menu_icon_img.personal_verification {
+    background-position: -256px -32px
+}
+
+.menu_icon_img.picksforyou {
+    background-position: -256px -64px
+}
+
+.menu_icon_img.poker {
+    background-position: -256px -96px
+}
+
+.menu_icon_img.popular {
+    background-position: -256px -128px
+}
+
+.menu_icon_img.quest {
+    background-position: -256px -160px
+}
+
+.menu_icon_img.racing {
+    background-position: -256px -192px
+}
+
+.menu_icon_img.recent {
+    background-position: -256px -224px
+}
+
+.menu_icon_img.refer {
+    background-position: 0 -256px
+}
+
+.menu_icon_img.referearn {
+    background-position: -32px -256px
+}
+
+.menu_icon_img.referral_codes {
+    background-position: -64px -256px
+}
+
+.menu_icon_img.sashimi_poker {
+    background-position: -96px -256px
+}
+
+.menu_icon_img.slots {
+    background-position: -128px -256px
+}
+
+.menu_icon_img.soccer {
+    background-position: -160px -256px
+}
+
+.menu_icon_img.sponsorship {
+    background-position: -192px -256px
+}
+
+.menu_icon_img.sponsorships {
+    background-position: -224px -256px
+}
+
+.menu_icon_img.sports_global {
+    background-position: -256px -256px
+}
+
+.menu_icon_img.sports_korea {
+    background-position: -288px 0
+}
+
+.menu_icon_img.st_kitts {
+    background-position: -288px -32px
+}
+
+.menu_icon_img.table_tennis {
+    background-position: -288px -64px
+}
+
+.menu_icon_img.tablegame {
+    background-position: -288px -96px
+}
+
+.menu_icon_img.tap_trading {
+    background-position: -288px -128px
+}
+
+.menu_icon_img.tennis {
+    background-position: -288px -160px
+}
+
+.menu_icon_img.themes {
+    background-position: -288px -192px
+}
+
+.menu_icon_img.tips_help {
+    background-position: -288px -224px
+}
+
+.menu_icon_img.two_factor {
+    background-position: -288px -256px
+}
+
+.menu_icon_img.up_down {
+    background-position: 0 -288px
+}
+
+.menu_icon_img.vip_club {
+    background-position: -32px -288px
+}
+
+.menu_icon_img.webchat {
+    background-position: -64px -288px
+}
+
+.menu_icon_img.weekly_raffle {
+    background-position: -96px -288px
+}
+
+@media (min-resolution: 192dpi) {
+    .menu_icon_img {
+        background: url(/assets/menuicon_retina-C2hgujOV.png) no-repeat top left;
+        background-size: 320px 320px
+    }
+    .nav-link-item:hover .menu_icon_img_normal,
+    .toggle-link-item:hover .menu_icon_img_normal {
+        background-image: url(/assets/menuicon_h_retina-CgfSpU1j.png)
+    }
+    .menu_icon_img.menu_icon_img_light {
+        background-image: url(/assets/menuicon_w_retina-BIut7Npj.png)
+    }
+    .nav-link-item:hover .menu_icon_img_normal.menu_icon_img_light,
+    .toggle-link-item:hover .menu_icon_img_normal.menu_icon_img_light {
+        background-image: url(/assets/menuicon_w_h_retina-DtFglq1r.png)
+    }
+    .menu_icon_img.menu_icon_img_active {
+        background-image: url(/assets/menuicon_g_retina-Br71djkR.png)
+    }
+    .menu_icon_img.menu_icon_img_active_light {
+        background-image: url(/assets/menuicon_g_w_retina-DomMA5ug.png)
+    }
+    .menu_icon_img.menu_icon_img_active.menu_icon_yellow {
+        background-image: url(/assets/menuicon_y_retina-34-w0l7M.png)
+    }
+    .menu_icon_img.menu_icon_img_active_light.menu_icon_yellow {
+        background-image: url(/assets/menuicon_y_w_retina-96zgHJiY.png)
+    }
+}
